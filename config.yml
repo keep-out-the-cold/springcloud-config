@@ -1,3 +1,1 @@
-# 配置中心
-server:
-  port: 666
+hello: "i am config.yml"

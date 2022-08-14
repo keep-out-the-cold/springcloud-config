@@ -1,2 +1,1 @@
-server:
-  port: 777
+hello: "i am config-test.yml"
